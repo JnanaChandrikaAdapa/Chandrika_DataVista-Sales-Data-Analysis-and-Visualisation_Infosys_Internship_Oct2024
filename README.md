@@ -110,3 +110,15 @@ Codes Executed:
 
 Use Case - Processing, Analysing and Visualizing the Sales data
 Libraries Used - Pandas, MatPlotLib, Seaborn
+
+
+# PROJECT
+
+Project on Vehicle Sales Data
+
+Outline of project
+1. Dataset Loading
+2. Data Cleaning
+3. Data Operations
+4. Data Visualization
+
