@@ -1,6 +1,37 @@
+# FINAL PROJECT: DATAVISTA-SALES-DATA-ANALYSIS-AND-VISUALISATION
+
+Dataset - VEHICLE SALES DATA
+
+Use Case - Analyzing sales data to identify top products, customer preferences, and sales trends, enabling data-driven business strategies.
+
+Libraries Used - Numpy, Pandas, MatPlotLib, Seaborn, Scikit-Learn
+
+# SALES DATA ANALYSIS AND VISUALIZATION
+
+Use Case - Processing, Analysing and Visualizing the Sales data
+
+Libraries Used - Pandas, MatPlotLib, Seaborn
+
+# DATA COMPUTATION
+
+Use Case - Commonly used for data analysis, optimization, signal processing, statistical analysis, and linear algebra in scientific and engineering fields.
+
+Library Used - Scipy
+
+Codes Executed:
+1. Optimization - Finds minima, maxima, and solves linear programming problems.
+2. Integration - Calculates numerical integrals for areas and volumes.
+3. Interpolation - Estimates values between data points.
+4. Linear Algebra - Solves linear systems and performs matrix operations.
+5. Statistics - Provides statistical measures and hypothesis tests.
+6. Fourier Transforms - Analyzes signals in the frequency domain.
+7. Signal and Image Processing - Filters signals and processes images.
+8. Ordinary Differential Equation (ODE) Solvers - Solves differential equations.
+9. Special Functions - Includes advanced mathematical functions.
+
 # DATA OPERATIONS
 
-Use Case - Learning how to perform arithmatic & modulus operations. It's widely used in scitific computing which supports arrays and matrices along with large collection of high level mathematical functions to operate on these data structures.
+Use Case - Learning how to perform arithmatic & modulus operations. It's widely used in scientific computing which supports arrays and matrices along with large collection of high level mathematical functions to operate on these data structures.
 
 Library used - Numpy
 
@@ -105,20 +136,3 @@ Codes Executed:
 3. Video Saving
 4. FPS
 5. Multiple Video Streaming
-
-# SALES DATA ANALYSIS AND VISUALIZATION
-
-Use Case - Processing, Analysing and Visualizing the Sales data
-Libraries Used - Pandas, MatPlotLib, Seaborn
-
-
-# PROJECT
-
-Project on Vehicle Sales Data
-
-Outline of project
-1. Dataset Loading
-2. Data Cleaning
-3. Data Operations
-4. Data Visualization
-
